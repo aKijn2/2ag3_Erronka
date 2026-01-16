@@ -1,0 +1,42 @@
+ERRONKAREN AURRE EMAITZA — ODOO MODULUAK
+
+Administrazio eta Zuzendaritza Saila
+- Contacts (Ofiziala)
+- Accounting (Ofiziala)
+- Invoicing (Ofiziala)
+- Expenses (Ofiziala)
+- Attendance (Ofiziala)
+- Calendar (Ofiziala)
+- Planning (Ofiziala)
+
+Giza Baliabideen Saila (HR)
+- Employees (Ofiziala)
+- Payroll (Ofiziala)
+- Time Off (Ofiziala)
+- Recruitment (Ofiziala)
+- Contracts (Ofiziala)
+- Fleet (Ofiziala)
+- Appraisals (Ofiziala)
+- Surveys (Ofiziala)
+
+Merkataritza Saila
+- Sales (Ofiziala)
+- Website (Ofiziala)
+- eCommerce (Ofiziala)
+- Inventory (Ofiziala)
+- Delivery / Shipping (Ofiziala)
+- CRM (Ofiziala)
+- Email Marketing (Ofiziala)
+- Marketing Automation (Ofiziala)
+- Events (Ofiziala)
+
+Sail arteko modulu komunak
+- Contacts (Administrazioa, Merkataritza)
+- Accounting / Invoicing (Administrazioa, HR)
+- Attendance (Administrazioa, HR)
+- CRM (Administrazioa, Merkataritza)
+- Calendar (Administrazioa, HR, Merkataritza)
+
+OCA edo Taldean sortutako moduluak
+- Ez da erabili OCA GitHub-eko modulurik.
+- Ez da sortu taldean garatutako modulurik.
